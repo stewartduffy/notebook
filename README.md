@@ -10,3 +10,6 @@ A list of links so good, they deserve more than a bookmark!
 
 ### Developer Environment
 - [Mac set up script](https://github.com/MoOx/setup/tree/master/setupsh/)
+
+### Git
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
