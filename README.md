@@ -17,3 +17,6 @@ A list of links so good, they deserve more than a bookmark!
 ### You might not need x... 
 - [jQuery](http://youmightnotneedjquery.com/)
 - [Underscore, lodash](https://www.reindex.io/blog/you-might-not-need-underscore/)
+
+### Build tools
+- [Pete’s guide to Webpack](https://github.com/petehunt/webpack-howto)
