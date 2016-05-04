@@ -19,4 +19,6 @@ A list of links so good, they deserve more than a bookmark!
 - [Underscore, lodash](https://www.reindex.io/blog/you-might-not-need-underscore/)
 
 ### Build tools
+#### Webpack
 - [Pete’s guide to Webpack](https://github.com/petehunt/webpack-howto)
+- [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.deqwgptjt)
