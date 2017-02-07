@@ -18,3 +18,5 @@ A list of links so good, they deserve more than a bookmark!
 - [jQuery](http://youmightnotneedjquery.com/)
 - [Underscore, lodash](https://www.reindex.io/blog/you-might-not-need-underscore/)
 
+### Esoteric ES
+- [Data structures for JS](https://yomguithereal.github.io/mnemonist/)
