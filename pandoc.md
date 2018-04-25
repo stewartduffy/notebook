@@ -1,0 +1,4 @@
+- https://uoftcoders.github.io/studyGroup/lessons/misc/pandoc-intro/lesson/
+- http://tech.lauritz.me/easy-latex-with-markdown-pandoc/
+- https://github.com/jgm/pandoc-templates/blob/master/default.latex
+- https://www.jabranham.com/blog/2016/11/using-pandoc-export-to-word/
