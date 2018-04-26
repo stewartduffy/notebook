@@ -20,3 +20,6 @@ A list of links so good, they deserve more than a bookmark!
 
 ### Esoteric ES
 - [Data structures for JS](https://yomguithereal.github.io/mnemonist/)
+
+Pandoc & LaTeX
+- [Pandoc](/pandoc.md)
