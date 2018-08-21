@@ -5,6 +5,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 
 * [Change port for create-react-app](#change-port-for-create-react-app)
 * [Close single simulator in Xcode](#close-single-simulator-in-xcode)
+* [React Native Expo changes not reloaded](#react-native-expo-changes-not-reloaded)
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -28,3 +29,4 @@ Select Simulator.. Go into File Menu -> Close window or press [Command + W ]. It
 rm .git/index.lock
 ```
 [Source](https://github.com/facebook/react-native/issues/4357#issuecomment-394448806)
+
