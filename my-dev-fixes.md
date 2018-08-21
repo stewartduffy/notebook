@@ -4,7 +4,7 @@ My curated list of dev hacks, notes and fixes. (props to https://github.com/xema
 
 
 * [Change port for create-react-app](#change-port-for-create-react-app)
-* [Close single simulator in Xcode](#close_single_simulator_in_xcode)
+* [Close single simulator in Xcode](#close-single-simulator-in-xcode)
 
 ## Change port for create-react-app
 Change the start script to from 
