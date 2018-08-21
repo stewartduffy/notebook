@@ -4,8 +4,7 @@ My curated list of dev hacks, notes and fixes. (props to https://github.com/xema
 
 
 * [Change port for create-react-app](#change-port-for-create-react-app)
-
-
+* [Close single simulator in Xcode](#close_single_simulator_in_xcode)
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -16,4 +15,9 @@ to
 ```
 "start": "PORT=3006 react-scripts start"
 ```
-[Source](https://stackoverflow.com/questions/40714583/how-to-specify-a-port-to-run-a-create-react-app-based-project)
+[Source](#https://stackoverflow.com/questions/40714583/how-to-specify-a-port-to-run-a-create-react-app-based-project)
+
+## Close single simulator in Xcode
+
+Select Simulator.. Go into File Menu -> Close window or press [Command + W ]. It will close the simulator which is on top.
+[Source](#https://stackoverflow.com/questions/45165635/how-to-quit-or-close-single-simulator-from-opened-multiple-simulator-in-xcode-9)
