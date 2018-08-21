@@ -3,7 +3,7 @@
 My curated list of dev hacks, notes and fixes. (props to https://github.com/xemasiv/my-dev-fixes)
 
 
-* [Change port for create-react-app](#change_port_for_create_react_app)
+* [Change port for create-react-app](#change-port-for-create-react-app)
 
 
 
