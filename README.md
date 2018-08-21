@@ -21,3 +21,10 @@ to
 
 Select Simulator.. Go into File Menu -> Close window or press [Command + W ]. It will close the simulator which is on top.
 [Source](https://stackoverflow.com/questions/45165635/how-to-quit-or-close-single-simulator-from-opened-multiple-simulator-in-xcode-9)
+
+## React Native Expo - changes not reloaded
+
+```
+rm .git/index.lock
+```
+[Source](https://github.com/facebook/react-native/issues/4357#issuecomment-394448806)
