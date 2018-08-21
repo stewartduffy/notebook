@@ -1,25 +1,23 @@
-# Dev reads
+# Dev Notebook
 
-A list of links so good, they deserve more than a bookmark!
+My curated list of dev hacks, notes and fixes.
+Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.com/xemasiv/my-dev-fixes))
 
-### Resources
-- [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list/blob/master/README.md) The list that inspired this!
+* [Change port for create-react-app](#change-port-for-create-react-app)
+* [Close single simulator in Xcode](#close-single-simulator-in-xcode)
 
-### Linting
-- [Sass linting](http://davidtheclark.com/scss-lint-styleguide/)
+## Change port for create-react-app
+Change the start script to from 
+```
+"start": "react-scripts start"
+```
+to
+```
+"start": "PORT=3006 react-scripts start"
+```
+[Source](https://stackoverflow.com/questions/40714583/how-to-specify-a-port-to-run-a-create-react-app-based-project)
 
-### Developer Environment
-- [Mac set up script](https://github.com/MoOx/setup/tree/master/setupsh/)
+## Close single simulator in Xcode
 
-### Git
-- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
-### You might not need x... 
-- [jQuery](http://youmightnotneedjquery.com/)
-- [Underscore, lodash](https://www.reindex.io/blog/you-might-not-need-underscore/)
-
-### Esoteric ES
-- [Data structures for JS](https://yomguithereal.github.io/mnemonist/)
-
-Pandoc & LaTeX
-- [Pandoc](/pandoc.md)
+Select Simulator.. Go into File Menu -> Close window or press [Command + W ]. It will close the simulator which is on top.
+[Source](https://stackoverflow.com/questions/45165635/how-to-quit-or-close-single-simulator-from-opened-multiple-simulator-in-xcode-9)
