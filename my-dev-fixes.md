@@ -1,6 +1,6 @@
 # my-dev-fixes
 
-My curated list of dev hacks, notes and fixes. (props to https://github.com/xemasiv/my-dev-fixes)
+My curated list of dev hacks, notes and fixes. (props to @xemasiv for the idea)
 
 
 * [Change port for create-react-app](#change-port-for-create-react-app)
