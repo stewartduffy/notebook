@@ -1,7 +1,7 @@
 # my-dev-fixes
 
-My curated list of dev hacks, notes and fixes. (props to @xemasiv for the idea)
-
+My curated list of dev hacks, notes and fixes.
+Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.com/xemasiv/my-dev-fixes))
 
 * [Change port for create-react-app](#change-port-for-create-react-app)
 * [Close single simulator in Xcode](#close-single-simulator-in-xcode)
