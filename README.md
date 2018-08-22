@@ -32,4 +32,4 @@ rm .git/index.lock
 [Source](https://github.com/facebook/react-native/issues/4357#issuecomment-394448806)
 
 ## Hot Links
-* [devhints/](#https://devhints.io/)
+* [devhints/](https://devhints.io/)
