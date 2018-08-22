@@ -6,6 +6,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Change port for create-react-app](#change-port-for-create-react-app)
 * [Close single simulator in Xcode](#close-single-simulator-in-xcode)
 * [React Native Expo changes not reloaded](#react-native-expo-changes-not-reloaded)
+* [Hot Links](#hot-links)
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -30,3 +31,5 @@ rm .git/index.lock
 ```
 [Source](https://github.com/facebook/react-native/issues/4357#issuecomment-394448806)
 
+## Hot Links
+* [devhints/](#https://devhints.io/)
