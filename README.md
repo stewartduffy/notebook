@@ -8,6 +8,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [React Native Expo changes not reloaded](#react-native-expo-changes-not-reloaded)
 * [Safe CSS Defaults](#safe-css-defaults)
 * [Hot Links](#hot-links)
+* [Lofty Concepts](#lofty-concepts)
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -73,3 +74,7 @@ rm .git/index.lock
 
 ## Hot Links
 * [devhints/](https://devhints.io/)
+
+
+## Lofty Concepts
+* [Lerna and Yarn Workspaces/](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
