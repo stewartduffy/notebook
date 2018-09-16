@@ -6,8 +6,8 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Change port for create-react-app](#change-port-for-create-react-app)
 * [Close single simulator in Xcode](#close-single-simulator-in-xcode)
 * [React Native Expo changes not reloaded](#react-native-expo-changes-not-reloaded)
-* [Online Code Editor](#online-code-editor)
 * [Safe CSS Defaults](#safe-css-defaults)
+* [Online Code Editor](#online-code-editor)
 * [Hot Links](#hot-links)
 * [Lofty Concepts](#lofty-concepts)
 
