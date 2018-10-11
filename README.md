@@ -9,6 +9,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Safe CSS Defaults](#safe-css-defaults)
 * [Online Code Editor](#online-code-editor)
 * [Hot Links](#hot-links)
+* [Per-repository SSH keys](#per-repository-ssh-keys)
 * [Lofty Concepts](#lofty-concepts)
 
 ## Change port for create-react-app
@@ -80,6 +81,16 @@ rm .git/index.lock
 * [devhints/](https://devhints.io/)
 * [python-vs-javascript/](https://sayazamurai.github.io/python-vs-javascript/)
 
+## Per-repository SSH keys
+If you want to use different keys depending on the repository you are working on, you can issue the following command while inside your repository:
+
+```
+git config core.sshCommand "ssh -o IdentitiesOnly=yes -i ~/.ssh/private-key-filename-for-this-repository -F /dev/null"
+```
+
+This will not use the SSH Agent and requires at least Git 2.10.
+
+[Source](https://docs.gitlab.com/ee/ssh/#per-repository-ssh-keys)
 
 ## Lofty Concepts
 * [Lerna and Yarn Workspaces/](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
