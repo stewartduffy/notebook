@@ -10,6 +10,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Online Code Editor](#online-code-editor)
 * [Hot Links](#hot-links)
 * [Per-repository SSH keys](#per-repository-ssh-keys)
+* [Kill Chrome Command](#kill-chrome-command)
 * [Lofty Concepts](#lofty-concepts)
 
 ## Change port for create-react-app
@@ -91,6 +92,12 @@ git config core.sshCommand "ssh -o IdentitiesOnly=yes -i ~/.ssh/private-key-file
 This will not use the SSH Agent and requires at least Git 2.10.
 
 [Source](https://docs.gitlab.com/ee/ssh/#per-repository-ssh-keys)
+
+
+## Kill Chrome Command
+```
+killall -9 "Google Chrome"
+```
 
 ## Lofty Concepts
 * [Lerna and Yarn Workspaces/](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
