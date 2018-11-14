@@ -42,7 +42,7 @@ rm .git/index.lock
 |-------------------|----------------------------------------------------------------------------------------------| 
 | background        | "transparent (transparent stands for rgba(0, 0, 0, 0)) or none or 0 0"                       | 
 | border            | none or 0                                                                                    | 
-| border-image      | none                                                                                         | 
+| border-image      | `none`                                                                                         | 
 | border-radius     | 0                                                                                            | 
 | box-shadow        | none                                                                                         | 
 | clear             | none                                                                                         | 
