@@ -12,6 +12,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Per-repository SSH keys](#per-repository-ssh-keys)
 * [Kill Chrome Command](#kill-chrome-command)
 * [Lofty Concepts](#lofty-concepts)
+* [Code Playgrounds](#code-playgrounds)
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -76,11 +77,11 @@ rm .git/index.lock
 [Source](http://nimbupani.com/safe-css-defaults.html)
 
 ## Online Code Editor
-* [codesandbox/](https://codesandbox.io/)
+* [codesandbox](https://codesandbox.io/)
 
 ## Hot Links
-* [devhints/](https://devhints.io/)
-* [python-vs-javascript/](https://sayazamurai.github.io/python-vs-javascript/)
+* [devhints](https://devhints.io/)
+* [python-vs-javascript](https://sayazamurai.github.io/python-vs-javascript/)
 
 ## Per-repository SSH keys
 If you want to use different keys depending on the repository you are working on, you can issue the following command while inside your repository:
@@ -100,4 +101,10 @@ killall -9 "Google Chrome"
 ```
 
 ## Lofty Concepts
-* [Lerna and Yarn Workspaces/](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
+* [Lerna and Yarn Workspaces](https://medium.com/@NareshBhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe)
+
+
+## Code Playgrounds
+* front-end languages like HTML, CSS, JavaScript etc [Codepen](https://codepen.io/)
+* React Native Flexbox [Yoga Layout](https://yogalayout.com/playground)
+* Like codepen with support for serverside (Node, PHP etc) [Glitch](https://glitch.com/edit/#!/clever-albacore)
