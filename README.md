@@ -13,7 +13,7 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Kill Chrome Command](#kill-chrome-command)
 * [Lofty Concepts](#lofty-concepts)
 * [Code Playgrounds](#code-playgrounds)
-* [Cheat Sheet](#cheat-sheet)
+* [Cheat Sheets](#cheat-sheets)
 
 
 ## Change port for create-react-app
