@@ -13,6 +13,8 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Kill Chrome Command](#kill-chrome-command)
 * [Lofty Concepts](#lofty-concepts)
 * [Code Playgrounds](#code-playgrounds)
+* [Cheat Sheet](#cheat-sheet)
+
 
 ## Change port for create-react-app
 Change the start script to from 
@@ -108,3 +110,7 @@ killall -9 "Google Chrome"
 * front-end languages like HTML, CSS, JavaScript etc [Codepen](https://codepen.io/)
 * React Native Flexbox [Yoga Layout](https://yogalayout.com/playground)
 * Like codepen with support for serverside (Node, PHP etc) [Glitch](https://glitch.com/edit/#!/clever-albacore)
+
+
+## Cheat Sheets
+* [The Full React Native Layout Cheat Sheet](https://medium.com/@drorbiran/the-full-react-native-layout-cheat-sheet-a4147802405c/)
