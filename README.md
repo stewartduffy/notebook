@@ -1,3 +1,4 @@
+
 # Dev Notebook
 
 My curated list of dev hacks, notes and fixes.
@@ -15,8 +16,8 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Code Playgrounds](#code-playgrounds)
 * [Cheat Sheets](#cheat-sheets)
 * [Axios catch error](#axios-catch-error)
-* Concepts
-** [Redux](#redux)
+* [Concepts](#concepts)
+	* [Redux](#redux)
 
 
 ## Change port for create-react-app
@@ -46,13 +47,13 @@ rm .git/index.lock
 
 | Property          | Value                                                                                        | 
 |-------------------|----------------------------------------------------------------------------------------------| 
-| background        | "transparent (transparent stands for rgba(0, 0, 0, 0)) or none or 0 0"                       | 
+| background        | "transparent (transparent stands for rgba(0, 0, 0, 0)) or none or 0 0"                       | 
 | border            | `none` or `0`                                                                                | 
 | border-image      | `none`                                                                                       | 
 | border-radius     | `0`                                                                                          | 
 | box-shadow        | `none`                                                                                       | 
 | clear             | `none`                                                                                       | 
-| color             | "No value, so best option is to use inherit to cascade from a parent element’s color value." | 
+| color             | "No value, so best option is to use inherit to cascade from a parent element’s color value." | 
 | content           | `normal`                                                                                     | 
 | display           | `inline`                                                                                       | 
 | float             | `none`                                                                                         | 
@@ -67,7 +68,7 @@ rm .git/index.lock
 | opacity           | `1`                                                                                            | 
 | overflow          | `visible`                                                                                      | 
 | page-break-inside | `auto`                                                                                         | 
-| position          | `static` (not relative)                                                                        | 
+| position          | `static` (not relative)                                                                        | 
 | text-shadow       | `none`                                                                                         | 
 | text-transform    | `none`                                                                                         | 
 | transform         | `none`                                                                                         | 
@@ -77,7 +78,7 @@ rm .git/index.lock
 | white-space       | `normal`                                                                                       | 
 | width             | `auto`                                                                                         | 
 | word-spacing      | `normal`                                                                                       | 
-| z-index           | `auto` (not none or 0)                                                                         | 
+| z-index           | `auto` (not none or 0)                                                                         | 
 
 [Source](http://nimbupani.com/safe-css-defaults.html)
 
@@ -125,6 +126,6 @@ killall -9 "Google Chrome"
 
 ## Concepts
 
-## Redux
-* middleware - https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud
+### Redux
+* [beginners guide to redux middleware](https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud)
 
