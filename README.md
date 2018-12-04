@@ -15,6 +15,8 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Code Playgrounds](#code-playgrounds)
 * [Cheat Sheets](#cheat-sheets)
 * [Axios catch error](#axios-catch-error)
+* Concepts
+** [Redux](#redux)
 
 
 ## Change port for create-react-app
@@ -119,3 +121,10 @@ killall -9 "Google Chrome"
 
 ## Axios catch error
 * [Axios catch error returns javascript error not server response](https://github.com/axios/axios/issues/960#issuecomment-398269712/)
+
+
+## Concepts
+
+## Redux
+* middleware - https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud
+
