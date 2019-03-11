@@ -13,7 +13,6 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Per-repository SSH keys](#per-repository-ssh-keys)
 * [Kill Chrome Command](#kill-chrome-command)
 * [Lofty Concepts](#lofty-concepts)
-* [Code Playgrounds](#code-playgrounds)
 * [Cheat Sheets](#cheat-sheets)
 * [Axios catch error](#axios-catch-error)
 * [Concepts](#concepts)
@@ -82,9 +81,6 @@ rm .git/index.lock
 
 [Source](http://nimbupani.com/safe-css-defaults.html)
 
-## Online Code Editor
-* [codesandbox](https://codesandbox.io/)
-
 ## Hot Links
 * [devhints](https://devhints.io/)
 * [python-vs-javascript](https://sayazamurai.github.io/python-vs-javascript/)
@@ -112,8 +108,11 @@ killall -9 "Google Chrome"
 
 ## Code Playgrounds
 * front-end languages like HTML, CSS, JavaScript etc [Codepen](https://codepen.io/)
-* React Native Flexbox [Yoga Layout](https://yogalayout.com/playground)
+* Better for web apps with support for imports etc [codesandbox](https://codesandbox.io/)
 * Like codepen with support for serverside (Node, PHP etc) [Glitch](https://glitch.com/edit/#!/clever-albacore)
+* React Native Flexbox [Yoga Layout](https://yogalayout.com/playground)
+* Dexter's Lab (The playground of lodash and lodash/fp) [Dexter's Lab](http://dexters-lab.io/)
+
 
 
 ## Cheat Sheets
