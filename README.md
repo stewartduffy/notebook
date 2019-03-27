@@ -121,6 +121,10 @@ killall -9 "Google Chrome"
 ## Axios catch error
 * [Axios catch error returns javascript error not server response](https://github.com/axios/axios/issues/960#issuecomment-398269712/)
 
+## Disable eslint for a file
+```
+/* eslint-disable */
+```
 
 ## Concepts
 
