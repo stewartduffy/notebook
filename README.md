@@ -127,6 +127,12 @@ https://runkit.com/home#endpoint
 /* eslint-disable */
 ```
 
+## Find files with an extention in dir
+```
+find ./components -type f -name '*.stories.tsx'
+```
+
+
 ## Concepts
 
 ### Redux
