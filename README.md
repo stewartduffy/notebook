@@ -19,6 +19,12 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 	* [Redux](#redux)
 
 
+## Update all packages from storybook
+
+```
+npx npm-check-updates '/storybook/' -u && npm install
+```
+
 ## Change port for create-react-app
 Change the start script to from 
 ```
