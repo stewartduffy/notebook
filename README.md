@@ -139,6 +139,32 @@ find ./components -type f -name '*.stories.tsx'
 ```
 
 
+## Set a stage status in Jenkins Pipelines
+```
+pipeline {
+    agent any
+    stages {
+        stage('1') {
+            steps {
+                sh 'exit 0'
+            }
+        }
+        stage('2') {
+            steps {
+                catchError(buildResult: 'SUCCESS', stageResult: 'UNSTABLE') {
+                    sh "exit 1"
+                }
+            }
+        }
+        stage('3') {
+            steps {
+                sh 'exit 0'
+            }
+        }
+    }
+}
+```
+
 ## Concepts
 
 ### Redux
