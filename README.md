@@ -165,6 +165,9 @@ pipeline {
 }
 ```
 
+## Misc links
+* [How to Target Email Clients](https://howtotarget.email/)
+
 ## Concepts
 
 ### Redux
