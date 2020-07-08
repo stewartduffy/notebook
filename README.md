@@ -17,6 +17,8 @@ Props to [@xemasiv](https://github.com/xemasiv) for the [idea](https://github.co
 * [Axios catch error](#axios-catch-error)
 * [Concepts](#concepts)
 	* [Redux](#redux)
+	* [Testing](#testing)
+
 
 
 ## Update all packages from storybook
@@ -174,6 +176,6 @@ pipeline {
 * [beginners guide to redux middleware](https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud)
 
 ### Testing
-[An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react/)
+* [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react/)
 
 
