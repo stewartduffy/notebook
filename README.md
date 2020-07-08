@@ -173,3 +173,7 @@ pipeline {
 ### Redux
 * [beginners guide to redux middleware](https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud)
 
+### Testing
+[An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react/)
+
+
